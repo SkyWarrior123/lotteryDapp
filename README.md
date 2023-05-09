@@ -1,13 +1,17 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+To run the project on your local computer
+1) Open your terminal
+2) Follow the commands below:-
 ```
+git clone https://github.com/SkyWarrior123/lotteryDapp
+```
+
+```
+npm install
+```
+To compile run
+```
+npx hardhat compile
+```
+To deploy run 
+```
+npx hardhat 
